@@ -1,0 +1,18 @@
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\Generador de Grafos.exe
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\Generador de Grafos.deps.json
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\Generador de Grafos.runtimeconfig.json
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\Generador de Grafos.runtimeconfig.dev.json
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\Generador de Grafos.dll
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\ref\Generador de Grafos.dll
+C:\Users\orlan\source\repos\Generador de Grafos\bin\Debug\net5.0-windows\Generador de Grafos.pdb
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.csproj.AssemblyReference.cache
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador_de_Grafos.Form1.resources
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.csproj.GenerateResource.cache
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.AssemblyInfoInputs.cache
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.AssemblyInfo.cs
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.csproj.CoreCompileInputs.cache
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.dll
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\ref\Generador de Grafos.dll
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.pdb
+C:\Users\orlan\source\repos\Generador de Grafos\obj\Debug\net5.0-windows\Generador de Grafos.genruntimeconfig.cache
